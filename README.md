@@ -284,7 +284,7 @@ SenTense implements clean, scalable MVVM architecture with clear separation of c
 │  │ Database     │  │ Socket.io    │  │ with TTL     │       │
 │  │              │  │ + Firebase   │  │              │       │
 │  └──────────────┘  └──────────────┘  └──────────────┘       │
-└────────────────────────────────────────────────���────────────┘
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ### Design Patterns Implemented
